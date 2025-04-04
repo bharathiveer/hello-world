@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class AdditionOfTwoNumbers {
     public static void main(String[] args) {
-        // Create a Scanner object to take input from user
+        // Createe a Scanner object to take input from user
         Scanner scanner = new Scanner(System.in);
 
         // Prompt user for first number
